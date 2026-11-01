@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NHA-5-192
 =======
 # 🚦 Intelligent Traffic Management Dashboard
